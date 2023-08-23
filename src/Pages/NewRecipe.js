@@ -9,7 +9,7 @@ function NewRecipe(props) {
   return (
     <div className="newRecipe">
       {<Header />}
-      <h2>Add a New Recipe</h2>
+      <h2>Add New Recipe</h2>
       <Form action="/create" method="post">
         <input type="text" name="name" placeholder="Recipe Name" />
         <input type="text" name="image" placeholder="Recipe Image" />

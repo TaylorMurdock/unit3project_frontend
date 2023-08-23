@@ -10,6 +10,7 @@ function Header() {
           color: "black",
           textDecoration: "none",
           fontFamily: "'Bricolage Grotesque', 'GFS Neohellenic', sans-serif",
+          fontSize: "30px",
         }}
       >
         Taste Tally

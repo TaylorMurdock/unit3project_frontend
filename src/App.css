@@ -25,6 +25,14 @@ input[type="radio"] {
     background-position: center;
     height: 100vh;
   }
+
+  /* Style for the h2 tag */
+  .newRecipe h2 {
+    font-size: 24px;
+    color: yellow;
+    text-align: center;
+    margin-top: 10px;
+  }
 }
 
 /* NewRecipe CSS for screens with a maximum width of 768 (tablet) */
