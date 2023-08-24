@@ -13,6 +13,8 @@ const StarRating = () => {
         padding: "10px",
         borderRadius: "10px",
       }}
+
+      //test
     >
       {[...Array(5)].map((star, i) => {
         const ratingValue = i + 1;
